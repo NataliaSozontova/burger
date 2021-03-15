@@ -21,15 +21,15 @@ The application is a burger logger with MySQL, Node, Express, Handlebars and ORM
 
 * New burgers list
 
-![Screenshot](/public/assets/mages/newList.png)
+![Screenshot](/public/assets/images/newList.png)
 
 * Devoured burger button
 
-![Screenshot](/public/assets/mages/devBtn.png)
+![Screenshot](/public/assets/images/devBtn.png)
 
 * Devoured burgers list
 
-![Screenshot](/public/assets/mages/devList.png)
+![Screenshot](/public/assets/images/devList.png)
 
 
 ## Installation 
