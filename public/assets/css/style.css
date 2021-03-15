@@ -10,7 +10,7 @@
 }
 
 #lefthead {
-  background-color: purple;
+  background-color:green;
   color: white;
   text-align: center;
   font-size: 1.2em;
@@ -18,16 +18,16 @@
 
 #eatbutton {
   float: right;
-  background-color: plum;
+  background-color: orange;
 }
 
 #righthead {
-  background-color:plum;
+  background-color:orange;
   color: white;
   text-align: center;
   font-size: 1.2em;
 }
 
 #add{
-  background-color: plum;
+  background-color: orange;
 }
