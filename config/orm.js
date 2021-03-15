@@ -47,6 +47,7 @@ const printQuestionMarks = (num) => {
       });
     },
     insertOne(table, cols, vals, cb) {
+    console.log("third step -orm");
       let queryString = `INSERT INTO ${table}`;
   
       queryString += ' (';

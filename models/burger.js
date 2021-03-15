@@ -6,6 +6,7 @@ const burger = {
     },
     // The variables cols and vals are arrays.
     insertOne(cols, vals, cb) {
+      console.log("second step - model");
       orm.insertOne('burgers', cols, vals, (res) => cb(res));
     },
     updateOne(objColVals, condition, cb) {
