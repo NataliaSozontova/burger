@@ -34,7 +34,10 @@ The application is a burger logger with MySQL, Node, Express, Handlebars and ORM
 
 ## Installation 
 * Clone this repository.
-https://github.com/NataliaSozontova/homework12EmployeeMngSystem
+https://github.com/NataliaSozontova/burger
+
+Open application live URL in your browser.
+
 
 ## Tests
 
@@ -55,7 +58,7 @@ Express
 Handlebars
 
 ## Contribution Guidlines
-Direct link to repository: https://github.com/NataliaSozontova/homework12EmployeeMngSystem
+Direct link to repository: https://github.com/NataliaSozontova/burger
 
 ## License
 Copyright(c) 2021 Natalia Sozontova.
