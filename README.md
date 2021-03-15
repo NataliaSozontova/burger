@@ -16,7 +16,7 @@ The application is a burger logger with MySQL, Node, Express, Handlebars and ORM
 ## Features
 * Add new burger
 
-![Screenshot](assets/images/addBurger.png)
+![Screenshot](/public/assets/images/addBurger.png)
 
 * New burgers list
 
