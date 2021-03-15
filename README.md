@@ -3,6 +3,7 @@
 ## Description
 The application is a burger logger with MySQL, Node, Express, Handlebars and ORM . Using Node and MySQL to query and route data and Handlebars to generate your HTML.
 
+![Screenshot](/public/assets/images/app.png)
 
 ## Table of Contents
 * [Features](#features)
@@ -20,15 +21,15 @@ The application is a burger logger with MySQL, Node, Express, Handlebars and ORM
 
 * New burgers list
 
-![Screenshot](images/addNewRole_1.png)
+![Screenshot](/public/assets/mages/newList.png)
 
 * Devoured burger button
 
-![Screenshot](images/addNewDep.png)
+![Screenshot](/public/assets/mages/devBtn.png)
 
 * Devoured burgers list
 
-![Screenshot](images/viewEmpl.png)
+![Screenshot](/public/assets/mages/devList.png)
 
 
 ## Installation 
