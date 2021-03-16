@@ -36,8 +36,8 @@ The application is a burger logger with MySQL, Node, Express, Handlebars and ORM
 * Clone this repository.
 https://github.com/NataliaSozontova/burger
 
-Open application live URL in your browser.
-
+* Open application live URL in your browser.
+https://git.heroku.com/boiling-plains-38005.git
 
 ## Tests
 
