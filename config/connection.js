@@ -23,12 +23,3 @@ connection.connect(function(err) {
 
 // Export the connection.
 module.exports = connection;
-
-// "production": {
-//     "username": "wumgjyealbbgvhgh",
-//     "password": "q3pjrhxhtsrylqza",
-//     "database": "bte7mblou88e4yms",
-//     "host": "xlf3ljx3beaucz9x.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-//     "port": 3306,
-//     "dialect": "mysql"
-// }
