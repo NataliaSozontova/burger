@@ -37,7 +37,7 @@ The application is a burger logger with MySQL, Node, Express, Handlebars and ORM
 https://github.com/NataliaSozontova/burger
 
 * Open application live URL in your browser.
-https://git.heroku.com/boiling-plains-38005.git
+https://boiling-plains-38005.herokuapp.com/
 
 ## Tests
 
@@ -58,7 +58,8 @@ Express
 Handlebars
 
 ## Contribution Guidlines
-Direct link to repository: https://boiling-plains-38005.herokuapp.com/
+Direct link to repository: 
+https://github.com/NataliaSozontova/burger
 
 ## License
 Copyright(c) 2021 Natalia Sozontova.
