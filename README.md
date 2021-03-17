@@ -58,7 +58,7 @@ Express
 Handlebars
 
 ## Contribution Guidlines
-Direct link to repository: https://github.com/NataliaSozontova/burger
+Direct link to repository: https://boiling-plains-38005.herokuapp.com/
 
 ## License
 Copyright(c) 2021 Natalia Sozontova.
