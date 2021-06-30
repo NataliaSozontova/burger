@@ -13,7 +13,7 @@ if (process.env.JAWSDB_URL) {
     });
 };
 
-//adding new comment new code
+//Nuri changing this line of code from Nuri branch
 connection.connect(function(err) {
     if (err) {
         console.error("error connecting: " + err.stack);
