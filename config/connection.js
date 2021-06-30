@@ -14,6 +14,7 @@ if (process.env.JAWSDB_URL) {
 };
 
 //Nuri changing this line of code from Nuri branch
+//adding new comment new code from natalia branch
 connection.connect(function(err) {
     if (err) {
         console.error("error connecting: " + err.stack);
